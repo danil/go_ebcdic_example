@@ -1,0 +1,8 @@
+github.com/Intermernet/ebcdic v0.0.0-20180129095110-0456a2287e54 h1:CkJTQmgDmklVTEWOLDeOaPqB2ZXQLPazctVNkTvjJrk=
+github.com/Intermernet/ebcdic v0.0.0-20180129095110-0456a2287e54/go.mod h1:sp5etjpmRZZrr3rPjru9LcbXSmpYD0TUimBwGfdC9Xo=
+github.com/gdamore/encoding v1.0.0 h1:+7OoQ1Bc6eTm5niUzBa0Ctsh6JbMW6Ra+YNuAtDBdko=
+github.com/gdamore/encoding v1.0.0/go.mod h1:alR0ol34c49FCSBLjhosxzcPHQbf2trDkoo5dl+VrEg=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
+golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
